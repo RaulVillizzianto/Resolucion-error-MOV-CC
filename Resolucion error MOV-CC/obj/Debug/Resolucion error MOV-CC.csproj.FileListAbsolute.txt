@@ -1,0 +1,10 @@
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion error MOV-CC.csprojAssemblyReference.cache
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion_error_MOV_CC.Form1.resources
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion_error_MOV_CC.Properties.Resources.resources
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion error MOV-CC.csproj.GenerateResource.cache
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion error MOV-CC.csproj.CoreCompileInputs.cache
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\bin\Debug\Resolucion error MOV-CC.exe.config
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\bin\Debug\Resolucion error MOV-CC.exe
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\bin\Debug\Resolucion error MOV-CC.pdb
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion error MOV-CC.exe
+C:\Users\villi\source\repos\Resolucion error MOV-CC\Resolucion error MOV-CC\obj\Debug\Resolucion error MOV-CC.pdb
